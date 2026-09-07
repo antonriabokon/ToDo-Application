@@ -13,6 +13,6 @@ Clone the repository and open the solution in Visual Studio. Build and run the p
 Enter a task in the text box and click Create ToDo button. The task will be added to the list and the input field will be cleared automatically.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,unity" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
   </a>
 </p>
